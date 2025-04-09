@@ -1,7 +1,7 @@
 This Lab contains PAGE REPLACEMENT ALGORITHMS .
 
 Algorithms :
-FIFO :
+>>>>>FIFO :
 1. Start
 2. Read the number of frames
 3. Read the number of pages
@@ -10,7 +10,8 @@ FIFO :
 6. Allocate the pages in to frames in first in first out order.
 7. Display the number of page faults.
 8. stop
-Optimal Page Replacement :
+
+>>>>Optimal Page Replacement :
 1. Start
 2. Read the number of frames
 3. Read the number of pages
